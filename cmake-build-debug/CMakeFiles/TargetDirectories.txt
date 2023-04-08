@@ -1,0 +1,3 @@
+/home/airsaypc/CLionProjects/Projects/Push to Git/Reverse String/cmake-build-debug/CMakeFiles/Reverse_String.dir
+/home/airsaypc/CLionProjects/Projects/Push to Git/Reverse String/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/airsaypc/CLionProjects/Projects/Push to Git/Reverse String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
