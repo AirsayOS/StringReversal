@@ -1,4 +1,4 @@
-# Install script for directory: /home/airsaypc/CLionProjects/Projects/Push to Git/Reverse String
+# Install script for directory: /home/airsaypc/CLionProjects/Projects/Push to Git/String Reversal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/airsaypc/CLionProjects/Projects/Push to Git/Reverse String/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/airsaypc/CLionProjects/Projects/Push to Git/String Reversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
